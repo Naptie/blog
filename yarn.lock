@@ -614,9 +614,9 @@ hexo-theme-landscape@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/hexo-theme-landscape/-/hexo-theme-landscape-1.0.0.tgz"
 
-hexo-theme-vivia@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.npmjs.org/hexo-theme-vivia/-/hexo-theme-vivia-0.2.0.tgz"
+hexo-theme-vivia@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/hexo-theme-vivia/-/hexo-theme-vivia-0.4.2.tgz#eda65ba92ba77b13d99f7040498b3ab23d0f8c44"
   dependencies:
     colorjs.io "^0.4.2"
     hexo-word-counter "^0.1.0"
