@@ -1,6 +1,8 @@
 ---
 title: 有界函数与三角不等式
+categories: Calculus
 date: 2023-09-13 14:32:58
+mathjax: true
 ---
 
 ### 有界函数（bounded function）
