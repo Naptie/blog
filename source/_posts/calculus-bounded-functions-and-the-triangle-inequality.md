@@ -15,20 +15,20 @@ Then we say $f(x)$ is a bounded function.
 
 ### 三角不等式（the Triangle Inequality）
 
-$\forall a_1, a_2, a_3, \dots, a_n \in \R$, we have
+$\forall a_1, a_2, a_3, \dots, a_n \in \mathbb{R}$, we have
 
 $|a_1 + a_2 + a_3 + \dots + a_n| \le |a_1|, |a_2|, |a_3|, \dots, |a_n|$
 
 
 
-#### Prove that $f(x) = \sin^{95}x + 6\cos^{49}2x - 7\sin^75x$ is bounded on $\R$.
+#### Prove that $f(x) = \sin^{95}x + 6\cos^{49}2x - 7\sin^75x$ is bounded on $\mathbb{R}$.
 
 Proof:
 $$
-\because \forall x \in \R, |f(x)| \le |\sin^{95}x| + 6|\cos^{49}2x| + 7|\sin^75x| \le 1 + 6 + 7 = 14
+\because \forall x \in \mathbb{R}, |f(x)| \le |\sin^{95}x| + 6|\cos^{49}2x| + 7|\sin^75x| \le 1 + 6 + 7 = 14
 $$
 
 $$
-\therefore f(x) \text{ is bounded on } \R
+\therefore f(x) \text{ is bounded on } \mathbb{R}
 $$
 
