@@ -39,8 +39,8 @@ dependencies:
     specifier: ^1.0.0
     version: 1.0.0
   hexo-theme-redefine:
-    specifier: ^2.6.0
-    version: 2.6.0
+    specifier: ^2.6.1
+    version: 2.6.1
 
 packages:
 
@@ -766,8 +766,8 @@ packages:
     resolution: {integrity: sha512-bWQJWMqQI78wWiJPQZq5pJBH20TM442ShCaHGRetuEgMraxH0OKxB3NTupJzNEkzEk8DV2yrdizkXdKN6i501A==}
     dev: false
 
-  /hexo-theme-redefine@2.6.0:
-    resolution: {integrity: sha512-yqNbtqWjnYrjzmXSDBQEMosAm/fDEH3gw6YdKsTsGlbc9nFb44rqFk/NltTO5/kmMFu0ehTY0GSkHiPK50bSNg==}
+  /hexo-theme-redefine@2.6.1:
+    resolution: {integrity: sha512-Ebn3/6dr0j9Tt9MmI2jD7EOyMQuxY0wc67S9JyGp/W2pTTC363NxTUKgHU8RHXWXhYGDG/bbYFttK/Actpnnaw==}
     dependencies:
       postcss: 8.4.31
     dev: false
