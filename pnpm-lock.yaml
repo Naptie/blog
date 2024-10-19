@@ -30,8 +30,8 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0
       hexo-renderer-marked:
-        specifier: ^6.1.1
-        version: 6.1.1
+        specifier: ^6.3.0
+        version: 6.3.0
       hexo-renderer-stylus:
         specifier: ^3.0.1
         version: 3.0.1
@@ -416,8 +416,8 @@ packages:
     resolution: {integrity: sha512-qCjE1IdwgDgv65qyb0KMVCwCdSVAkH0vwAe9XihjvaKWkmb9dtt8DgErOdqCXn0HReSyWiEVP2BrLRj3gyHwOQ==}
     engines: {node: '>=12'}
 
-  hexo-renderer-marked@6.1.1:
-    resolution: {integrity: sha512-vllmRFwl9A1NP/llQW2TbDnyvqaQKgktxXw7c+tK7XVQJmfIUnl32dr8M4jRYqYe5m9972eYm09kBXV8rBtA/A==}
+  hexo-renderer-marked@6.3.0:
+    resolution: {integrity: sha512-V/ATcJ+tZHkTJSbScPzzHKmrwVMohU8i9MfuX9jp07Un/NpPtaTP821unP3JPu+O1nNLWMi+3xRbFRdm+8vajw==}
     engines: {node: '>=14'}
 
   hexo-renderer-stylus@3.0.1:
@@ -433,10 +433,6 @@ packages:
 
   hexo-theme-redefine@2.7.1:
     resolution: {integrity: sha512-XTa3GA5hNgylBOV1190FNijBEptwMo7C+xv7RaRMBtncGff1LArOl6mdwuIDxaO82kAL+ooA3hIbvoI3snZlFg==}
-
-  hexo-util@3.1.0:
-    resolution: {integrity: sha512-LmztAhkJHQ59VHqz6AnvwEKiNA0pCBBI0qW08cCzjhnpGoqZ8tlGDwElzy7oTxCvMChkiqg5V8VflhdI8tHsGg==}
-    engines: {node: '>=14'}
 
   hexo-util@3.3.0:
     resolution: {integrity: sha512-YvGngXijE2muEh5L/VI4Fmjqb+/yAkmY+VuyhWVoRwQu1X7bmWodsfYRXX7CUYhi5LqsvH8FAe/yBW1+f6ZX4Q==}
@@ -1305,10 +1301,10 @@ snapshots:
     dependencies:
       ejs: 3.1.9
 
-  hexo-renderer-marked@6.1.1:
+  hexo-renderer-marked@6.3.0:
     dependencies:
       dompurify: 3.0.5
-      hexo-util: 3.1.0
+      hexo-util: 3.3.0
       jsdom: 20.0.3
       marked: 4.3.0
     transitivePeerDependencies:
@@ -1342,16 +1338,6 @@ snapshots:
   hexo-theme-redefine@2.7.1:
     dependencies:
       postcss: 8.4.31
-
-  hexo-util@3.1.0:
-    dependencies:
-      camel-case: 4.1.2
-      cross-spawn: 7.0.3
-      deepmerge: 4.3.1
-      highlight.js: 11.8.0
-      htmlparser2: 9.0.0
-      prismjs: 1.29.0
-      strip-indent: 3.0.0
 
   hexo-util@3.3.0:
     dependencies:
