@@ -1,2 +1,2 @@
 hexo g
-hexo s
+hexo s -p 4001
