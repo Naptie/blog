@@ -25,14 +25,14 @@ defaults:
   # Site logo
   # logo: https://res.phizone.cn/Pjfhepd655GOsXGhAGvWJHH3DCPv0ptz/favicon.ico
   # Site avatar
-  avatar: https://res.phizone.cn/4Sn9zO1sERBbx0QYRmj6NU8VwDdDCJ7V/avatar.png
+  avatar: https://res.phizone.cn/mdx3fTueBBIOondCSFoMUpHsiX23crpM/avatar.png
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
 # COLORS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 colors:
   #Primary color
-  primary: "#A31F34"
+  primary: "#C4859D"
   # Secondary color (beta)
   secondary: 
 # COLORS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
