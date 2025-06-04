@@ -103,8 +103,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: https://insider.phizone.cn/background.webp # light mode
-    dark: https://insider.phizone.cn/background.webp # dark mode
+    light: https://www.phizone.cn/background.webp # light mode
+    dark: https://www.phizone.cn/background.webp # dark mode
   # Home banner title
   title: PhiZone Reimagined
   # Home banner subtitle
